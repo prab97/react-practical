@@ -1,0 +1,14 @@
+
+Content 
+========
+
+1. Toast messages - react-toastify
+2. Load Spinners - react-spinners
+3. Video Player - react-player
+4. Icons - react-icons
+5. Date Picker - react-datepicker
+6. Credit Card - react-credet-cards
+7. Charts - react-chartjs-2, chart.js(dependency)
+8. Modals - react-modal
+9. Count up - react-countup
+10. Tooltips - @tippyjs/react.
